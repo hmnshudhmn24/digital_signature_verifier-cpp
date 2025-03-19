@@ -35,6 +35,3 @@ Select option `2` and enter the filename to sign. This generates `signature.sig`
 ./verifier
 ```
 Select option `3` and enter the filename to verify. If the signature is valid, authentication succeeds.
-
-## License
-This project is open-source and can be freely modified.
